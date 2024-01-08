@@ -1,4 +1,5 @@
 # :wave: The Basics of GitHub 
+Grace Lenihan 
 
 ## 🤓 Course overview and learning outcomes 
 
